@@ -31,6 +31,15 @@ Premium News is a modern and responsive news website designed to provide a premi
 4. Run the application using npm start.
 5. Access the website locally at http://localhost:3000.
 
+## Result
+
+![Screenshot (840)](https://github.com/Deepika-jangraa/News_website-homepage-using-HTML-CSS-JS/assets/135499747/7d28b61b-5d62-493f-a3a1-aed80daa2188)
+
+![Screenshot (841)](https://github.com/Deepika-jangraa/News_website-homepage-using-HTML-CSS-JS/assets/135499747/87c81694-85a5-4cda-aaa8-086a11ba88ae)
+
+![Screenshot (842)](https://github.com/Deepika-jangraa/News_website-homepage-using-HTML-CSS-JS/assets/135499747/c897b102-ca72-4e24-922a-cc260367b5b7)
+
+
 ## Future Enhancements
 
 - Comment Section: Allow users to interact and discuss news articles.
